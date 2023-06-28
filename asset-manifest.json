@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-App/static/css/main.f9242e03.css",
+    "main.js": "/React-App/static/js/main.48651127.js",
+    "static/js/787.fb771931.chunk.js": "/React-App/static/js/787.fb771931.chunk.js",
+    "static/media/header-img.svg": "/React-App/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
+    "static/media/CentraNo2-Bold.ttf": "/React-App/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/React-App/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/React-App/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/React-App/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/project-img2.png": "/React-App/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/React-App/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/React-App/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
+    "static/media/revicons.eot": "/React-App/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-App/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-App/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/_logo-fsl-dark-gradient.svg": "/React-App/static/media/5dfba5b580bf165ad53e5351_logo-fsl-dark-gradient.26b646e79d9503e2806060650a037fae.svg",
+    "static/media/background.svg": "/React-App/static/media/background.2c53e75998ee8e0832d1.svg",
+    "static/media/logo.svg": "/React-App/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
+    "static/media/nav-icon3.svg": "/React-App/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "index.html": "/React-App/index.html",
+    "static/media/nav-icon1.svg": "/React-App/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon2.svg": "/React-App/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.f9242e03.css.map": "/React-App/static/css/main.f9242e03.css.map",
+    "main.48651127.js.map": "/React-App/static/js/main.48651127.js.map",
+    "787.fb771931.chunk.js.map": "/React-App/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9242e03.css",
+    "static/js/main.48651127.js"
+  ]
+}
